@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @lucasackerberg<br>👀 I’m interested in Web developement<br>🌱 I’m currently learning laravel, and .NET<br>💞️ I’m looking to collaborate on everything web developement
+👋 Hi, I’m @lucasackerberg<br>👀 I’m a Web developement student currently studying at YRGO!<br>🌱 I’m currently learning laravel and .NET<br>💞️ I’m looking to collaborate on everything web developement
 
 
 ## 🌐 Socials:

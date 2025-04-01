@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @lucasackerberg<br>👀 I’m a Web developement student currently studying at YRGO!<br>🌱 I’m currently learning Typescript and Vue.js in my own time.<br>💞️ I’m looking to collaborate on everything web developement<br>🎵 Appreciate good coding music 😎
+👋 Hi, I’m @lucasackerberg<br>👀 I’m a Web developement student currently studying at YRGO! <br>🎵 Appreciate good coding music 😎
 
 
 ## 🌐 Socials:
